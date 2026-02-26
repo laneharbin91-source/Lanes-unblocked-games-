@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "id": "block-blast",
+    "title": "Block Blast",
+    "thumbnail": "https://picsum.photos/seed/blockblast/400/300",
+    "iframeUrl": "https://storage.googleapis.com/freezenova/all/2024/unity3/block-blast/pre-gg.html"
+  }
+]
