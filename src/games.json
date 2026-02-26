@@ -1,0 +1,50 @@
+[
+  {
+    "id": "slope",
+    "title": "Slope",
+    "thumbnail": "https://picsum.photos/seed/slope/400/300",
+    "iframeUrl": "https://wayback.google.com/wayback/proxy?url=https://kdata1.com/2020/05/slope/"
+  },
+  {
+    "id": "tunnel-rush",
+    "title": "Tunnel Rush",
+    "thumbnail": "https://picsum.photos/seed/tunnel/400/300",
+    "iframeUrl": "https://wayback.google.com/wayback/proxy?url=https://kdata1.com/2020/05/tunnel-rush/"
+  },
+  {
+    "id": "run-3",
+    "title": "Run 3",
+    "thumbnail": "https://picsum.photos/seed/run3/400/300",
+    "iframeUrl": "https://wayback.google.com/wayback/proxy?url=https://kdata1.com/2020/05/run-3/"
+  },
+  {
+    "id": "retro-bowl",
+    "title": "Retro Bowl",
+    "thumbnail": "https://picsum.photos/seed/retrobowl/400/300",
+    "iframeUrl": "https://wayback.google.com/wayback/proxy?url=https://game316011.konggames.com/game.html"
+  },
+  {
+    "id": "1v1-lol",
+    "title": "1v1.LOL",
+    "thumbnail": "https://picsum.photos/seed/1v1/400/300",
+    "iframeUrl": "https://1v1.lol"
+  },
+  {
+    "id": "geometry-dash",
+    "title": "Geometry Dash",
+    "thumbnail": "https://picsum.photos/seed/gd/400/300",
+    "iframeUrl": "https://wayback.google.com/wayback/proxy?url=https://kdata1.com/2020/05/geometry-dash-lite/"
+  },
+  {
+    "id": "bitlife",
+    "title": "BitLife",
+    "thumbnail": "https://picsum.photos/seed/bitlife/400/300",
+    "iframeUrl": "https://wayback.google.com/wayback/proxy?url=https://kdata1.com/2020/05/bitlife/"
+  },
+  {
+    "id": "minecraft-classic",
+    "title": "Minecraft Classic",
+    "thumbnail": "https://picsum.photos/seed/mc/400/300",
+    "iframeUrl": "https://classic.minecraft.net"
+  }
+]
